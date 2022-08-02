@@ -1,6 +1,6 @@
 {
 	"manifest_version": 1,
-	"id": "26262446-839E-4BEC-B071-3771681A07F4",
+	"id": "82617A9E-21BD-42B9-B1F1-E978622B39AF",
 	"app_min_version": "2.8",
 	"version": "1.0.0",
 	"name": "joplin-plugin-vim-keymap",
