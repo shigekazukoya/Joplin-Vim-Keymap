@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "26262446-839E-4BEC-B071-3771681A07F4",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "joplin-plugin-vim-keymap",
+	"description": "",
+	"author": "Shigekazu Koya",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": []
+}
